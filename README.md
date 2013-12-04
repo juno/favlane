@@ -1,5 +1,7 @@
 # Favlane
 
+[![Gemnasium](https://gemnasium.com/juno/favlane.png)](https://gemnasium.com/juno/favlane/)
+
 Fetch your favorites and puts tweets only by specified user.
 
 Twitter List Favorites API rate limit is 15/app, 15/user in 15 minutes.
