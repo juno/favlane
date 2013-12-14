@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 
-gem 'twitter', '5.1.1'
+gem 'twitter', '5.2.0'
